@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: My Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: My Assets
+  m_GUID: b456d4fe11a015f4b9d392160c5d731c
+  m_SerializeEntries:
+  - m_GUID: 22afd1d654f565f40aeab554cc1d8509
+    m_Address: Assets/Res/Prefabs/Rock1_0.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - objects
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3659b3a572e9f2049a9db8f5674465c2
+    m_Address: Assets/Res/Prefabs/Player.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c9cfa26abfee488c85f1582747f6a02
+    m_Address: Assets/Scenes/SampleScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc113412d6a622d4bb6ca18c436e9903
+    m_Address: Assets/Res/Prefabs/Rock2_0.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - objects
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0b29a70c56b5cdf47a83d79b3ac924a7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 74643ccf9186e6d42a40caa620afd7fb, type: 2}
+    - {fileID: 11400000, guid: 27a2015f0a8d29a44a23185e5d49f8e6, type: 2}
