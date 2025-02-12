@@ -37,12 +37,8 @@ public class SpawnerObject : MonoBehaviour
     {
         Addressables.LoadSceneAsync("Assets/Scenes/SampleScene.unity");
     }
-    // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            LoadScene();
-        }
+
     }
 }
