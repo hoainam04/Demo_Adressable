@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: d202a996a64c2af438408dfcd1273d16
   m_currentHash:
     serializedVersion: 2
-    Hash: 6983e2c7ce69639ad507931517ad7bce
+    Hash: 8d413f6e01bba57f7dbefe6650971510
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_CatalogRequestsTimeout: 0
@@ -53,7 +53,7 @@ MonoBehaviour:
     m_Id: 
   m_RemoteCatalogLoadPath:
     m_Id: 
-  m_ContentStateBuildPathProfileVariableName: 
+  m_ContentStateBuildPathProfileVariableName: <default settings path>
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 0
@@ -73,7 +73,7 @@ MonoBehaviour:
       - m_Id: 26e9c24916407c5469f7ae74af070364
         m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
       - m_Id: 4ba4853eafe3d6445ac2f6ae75ce4a2f
-        m_Value: <undefined>
+        m_Value: https://assets.g5-studio.com/StandaloneWindows64
       - m_Id: 509b647599d1a884498b8e7a627b84a7
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: 67b04012da68ba442b58679b1306029b
